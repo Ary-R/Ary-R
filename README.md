@@ -7,7 +7,7 @@
 - ♾️ Brain Workout <br />
   **Learning ***Fullstack Web Development Course*** at** <img src="https://github.com/user-attachments/assets/0c46fb9d-1bba-4997-bc6d-ff55224ade9a" height="24"/>
 - ⚡ **Fun Fact**:  
-  - [ ] Not coding ... 🤔 then ..
+  - [ ] Not coding? 🤔 then ..
   - [x] Designing my project while vibing songs was my thing! 🎧
 
 - 🌐 Let’s connect
