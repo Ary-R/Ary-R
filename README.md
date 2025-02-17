@@ -24,7 +24,7 @@
 ### 🛠️ **Tools I love**
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-### 💻 Workspace Spec
+### ⚙️ Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Acer%20Swift%203-SF314-43?style=for-the-badge&logo=acer&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen%205-5500U?style=for-the-badge&logo=AMD&logoColor=white&color=magenta"/>
 
 ![Ary-R's Stats](https://github-readme-stats.vercel.app/api?username=Ary-R&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=false)
