@@ -2,7 +2,7 @@
 ***Welcome to my corner of GitHub!***
 ***Here's a peek into my world:***
 
-##### **{ Learning Kid ()=>(🧠)}**
+##### **{ Learning Kid ()=>(🧠) }**
 - 🌱 Welcome to **My Portfolio [Here](#)** -- **under-maintenance**
 - 👩‍💻 Web Developer Intern at **Shoppego Sdn Bhd**
 - ♾️ Brain Workout <br />
