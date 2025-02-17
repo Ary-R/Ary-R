@@ -7,9 +7,10 @@
 
 - ♾️ **Brain Workout**
   *Learning **Fullstack Web Development** at* ![udemy-new-20212512](<img width="50" height="50" src="https://github.com/user-attachments/assets/912a388f-c887-41af-b0d9-023d0446e0fe" />)
+  
 - 🌐 **Let’s connect**:
-  [<img width="50" height="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ary-R)
-  [<img width="50" height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ary-r/)
+  <br /> [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ary-R) <br />
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ary-r/)
 
 <br />
 - 💻 **Tech stack**:  
