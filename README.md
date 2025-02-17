@@ -3,8 +3,8 @@
 ***Here's a peek into my world:***
 
 - 🌱 Welcome to **My Portfolio [Here](#)**
-- 👩‍💻 Web Developer Intern at ![Screenshot 2025-02-17 at 11 42 41 AM](<img width="100" height="20"
-  src="https://github.com/user-attachments/assets/0da488d5-ef5a-4988-b4cc-ebc186b12e58" alt="Screenshot"/>)
+- 👩‍💻 Web Developer Intern at ![Screenshot 2025-02-17 at 1 47 38 PM](https://github.com/user-attachments/assets/4a9de2c4-1d60-4d63-a829-5eea521a1497)
+
 - ♾️ **Brain Workout**
   *Learning **Fullstack Web Development** at* ![udemy-new-20212512](<img width="50" height="50" src="https://github.com/user-attachments/assets/912a388f-c887-41af-b0d9-023d0446e0fe" />)
 - 🌐 **Let’s connect**:
