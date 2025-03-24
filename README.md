@@ -3,7 +3,7 @@
 ***Here's a peek into my world:***
 
 ##### **{ Learning Kid ()=>(🧠) }**
-- 🌱 Welcome to **My Portfolio [Here(#https://aryr-portfolio.vercel.app/)]**
+- 🌱 Welcome to **My Portfolio [Here](https://aryr-portfolio.vercel.app/)**
 - 👩‍💻 Web Developer Intern at **Shoppego Sdn Bhd**
 - ♾️ Brain Workout <br />
   **Learning ***Fullstack Web Development Course*** at** <img src="https://github.com/user-attachments/assets/0c46fb9d-1bba-4997-bc6d-ff55224ade9a" height="24"/>
